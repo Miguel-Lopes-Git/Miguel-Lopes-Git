@@ -1,7 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
----
-
 <h2> 🚀 About Me </h2>
 
 Hey there, fellow explorer of the digital world! 🌍 
@@ -11,8 +9,6 @@ I’ve always been captivated by the endless possibilities of development, const
 Whether it's reducing complexity, improving automation, or squeezing out every last bit of performance, I’m always on a mission to turn good into great. 🔥
 
 🎓 **Student Developer** passionate about **web development** and **automation**. Always exploring new technologies and building cool projects! 💡
-
----
 
 <h2> 🔧 Tech Stack & Skills </h2>
 
@@ -48,15 +44,11 @@ Whether it's reducing complexity, improving automation, or squeezing out every l
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
 <h2> 📊 GitHub Stats </h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Lopes-Git&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lopes-Git&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
 
 <h2> 📫 Connect with Me </h2>
 <p>
