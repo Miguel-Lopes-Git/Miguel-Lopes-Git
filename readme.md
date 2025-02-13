@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me
+<h2> 🚀 About Me </h2>
 
 Hey there, fellow explorer of the digital world! 🌍 
 
@@ -14,7 +14,7 @@ Whether it's reducing complexity, improving automation, or squeezing out every l
 
 ---
 
-## 🔧 Tech Stack & Skills
+<h2> 🔧 Tech Stack & Skills </h2>
 
 ### 📌 Frontend
 <p>
@@ -50,16 +50,15 @@ Whether it's reducing complexity, improving automation, or squeezing out every l
 
 ---
 
-## 📊 GitHub Stats
+<h2> 📊 GitHub Stats </h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Lopes-Git&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Lopes-Git&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lopes-Git&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## 📫 Connect with Me
+<h2> 📫 Connect with Me </h2>
 <p>
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-skyrlanie-%237289DA?style=for-the-badge&logo=discord" alt="Discord" />
