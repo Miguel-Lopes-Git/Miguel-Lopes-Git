@@ -55,7 +55,7 @@ Whether it's reducing complexity, improving automation, or squeezing out every l
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-skyrlanie-%237289DA?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/miguel-lopes-8a3764334">
     <img src="https://img.shields.io/badge/LinkedIn-Miguel_Lopes-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
